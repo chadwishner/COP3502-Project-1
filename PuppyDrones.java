@@ -1,4 +1,4 @@
-//Chad Wishner 6631-5393 Section: 149A
+//Chad Wishner Section: 149A
 //Import Java utility to read user inputs
 import java.util.Scanner;
 public class PuppyDrones {
